@@ -26,4 +26,6 @@ This project involved reading and solving projects from a book called [Automate 
 | Chapter - 19 | - |
 | Chapter - 20 | nudge.py |
 
-###Chapter 1
+### Chapter 1 - Python Basics
+This chapter introduced us to the basics of Python programmming which involved learning about basic operations and setting up IDLE. 
+
