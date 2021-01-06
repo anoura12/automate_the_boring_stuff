@@ -8,21 +8,17 @@ This project involved reading and solving projects from a book called [Automate 
 | Chapter - 1 | README.md |
 | Chapter - 2 | README.md |
 | Chapter - 3 | [Collatz](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2003/collatz.py) |
-| Chapter - 4 | [CommaCode](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2004/commacode.ipynb) 
-                [Character](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2004/character.ipynb) |
-| Chapter - 5 | [Chess](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2005/chess.py) 
-                [FantasyGameInventor](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2005/FantasyGameInventory.ipynb) |
+| Chapter - 4 | [CommaCode](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2004/commacode.ipynb) , [Character](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2004/character.ipynb) |
+| Chapter - 5 | [Chess](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2005/chess.py) ,[FantasyGameInventor](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2005/FantasyGameInventory.ipynb) |
 | Chapter - 6 | [Table](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2006/table.ipynb) | 
 | Chapter - 7 | - | 
 | Chapter - 8 | [SandwichMaker](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2008/sandwichMaker.ipynb) |
 | Chapter - 9 | [MadLibs](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2009/madLibs.py) |
 | Chapter - 10 | - |
 | Chapter - 11 | [DebuggingCoinToss](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2011/debuggingCoinToss.ipynb) |
-| Chapter - 12 | [2048](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2012/2048.ipynb) 
-                 [CommandLineEmail](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2012/emailsender.py) |
+| Chapter - 12 | [2048](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2012/2048.ipynb) , [CommandLineEmail](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2012/emailsender.py) |
 | Chapter - 13 | [MultiplicationTable](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2013/multiplicationTable.py) |
-| Chapter - 14 | [SheetMistakes](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2014/sheetmistakes.py) 
-                [ConvertingSpreadsheets](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2014/ConvertingSpreadsheets.py) |
+| Chapter - 14 | [SheetMistakes](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2014/sheetmistakes.py) , [ConvertingSpreadsheets](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2014/ConvertingSpreadsheets.py) |
 | Chapter - 15 | [BruteForcePasswordBreak](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2015/BruteForcePasswordBreaker.py) |
 | Chapter - 16 | - |
 | Chapter - 17 | [prettifiedStopwatch](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2017/prettifiedStopwatch.py) |
