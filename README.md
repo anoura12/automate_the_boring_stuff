@@ -77,14 +77,14 @@ SandwichMaker - A program that gives the price of a sandwich after the user give
 
 
 ## Chapter 9 - Reading and Writing Files
-This chapter contained methods to read, write files through the pathlib module. It talked about file paths and saving variables with the shelve module and the pprint.pformat()
+This chapter contained methods to read, write files through the **pathlib** module. It talked about file paths and saving variables with the **shelve** module and the pprint.pformat()
 
 #### Projects
 Madlibs - A program that reads a Madlibs text document and asks for different kinds of words from the user and writes the new Madlibs paragraph in a text doc. 
 
 
 ## Chapter 10 - Organising Files
-This chapter talked about different ways of organising files using the shutil and zipfile module.
+This chapter talked about different ways of organising files using the **shutil** and **zipfile** module.
 
 
 ## Chapter 11 - Debugging
@@ -95,7 +95,7 @@ DebuggingCoinToss - This program had to be debugged where the user had two tries
 
 
 ## Chapter 12 - Web Scraping
-The chapter introduced us to the concept of web scraping using different modules - webbrowser,requests,bs4 and selenium.
+The chapter introduced us to the concept of web scraping using different modules - **webbrowser,requests,bs4 and selenium.**
 
 #### Projects
 Command Line Emailer - This program automates sending a email to someone taking onlt the recipient address and the message from the command line.
@@ -117,33 +117,33 @@ ConvertingSpreadsheet - A program that converts a spreadsheet into different fom
 
 
 ## Chapter 15 - Working with PDF and Word Documents
-This chapter contained functions for interacting with PDFs and Word docs using PyPDF2 and docx module.
+This chapter contained functions for interacting with PDFs and Word docs using **PyPDF2** and **docx** module.
 
 #### Projects
-BruteForcePasswordBReak - A program that will decrypt an encrypted PDF document with trying out words from a dictionary.
+BruteForcePasswordBreak - A program that will decrypt an encrypted PDF document with trying out words from a dictionary.
 
 
 ## Chapter 16 - Working with CSV Files and JSON Data
-This chapter talked about working with CSV files and JSON files using the csv and json modules respectively.
+This chapter talked about working with CSV files and JSON files using the **csv** and **json** modules respectively.
 
 
 ## Chapter 17 - Keeping Time, Scheduling Tasks and Launching Programs
-This chapter talked about displaying ad keeping track of time with Python using the time module.
+This chapter talked about displaying ad keeping track of time with Python using the **time** module.
 
 #### Projects
 prettifiedStopwatch - a program that behaves like a stopwatch and presents the laptime in a neat format.
 
 
 ## Chapter 18 - Sending Emails and Text Messages 
-This chapter taught me an interesting way to deal with emails using the EZGmail module, sending and recieving mails using SMTP and IMAP and sending text messages using Twilio.
+This chapter taught me an interesting way to deal with emails using the **EZGmail** module, sending and recieving mails using SMTP and IMAP and sending text messages using Twilio.
 
 
 ## Chapter 19 - Manipulating Images
-This chapter talked about editing images using the Pillow module.
+This chapter talked about editing images using the **Pillow** module.
 
 
 ## Chapter 20 - Controlling the Keyboard and Mouse with GUI Automation
-This chapter introduced me to GUI automation using the pyatuogui module.
+This chapter introduced me to GUI automation using the **pyatuogui** module.
 
 #### Projects
 LookingBusy - A program that will nudge the cursor after 10 seconds
