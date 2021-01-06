@@ -2,14 +2,17 @@ import openpyxl
 from openpyxl.styles import Font
 from openpyxl.utils import get_column_letter
 
+#to create a new workbook and save it locally
 wb = openpyxl.Workbook()
 sheet = wb.active
 sheet.title = 'multiply'
 wb.save('multiplicationTables')
 
+#to load the local workbook
 wb = openpyxl.load_workbook('multiplicationTable.xlsx')
 sheet = wb['multiply']
 number = int(input("Enter a number to create a multiplication table - "))
+
 
 column_letter = '' #column letter is to extract the letter of the column
 counter = 1 #counter is to help print the the first row labels

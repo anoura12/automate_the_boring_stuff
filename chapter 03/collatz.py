@@ -1,11 +1,11 @@
-def collatz(number):
+def collatz(number): #function to define the collatz number
     if(number % 2 == 0):
         return(number // 2)
     else:
         return(3 * number + 1)
 
 while(True):
-    num = input("Enter a number. Press enter to quit. - ")
+    num = input("Enter a number. Press enter to quit. - ") #asks user for input
     try:
         if(num == ""):
             break
@@ -21,5 +21,5 @@ while(True):
 
              
 
-    except (ValueError,NameError,TypeError):
+    except (ValueError,NameError,TypeError): #checks for these errors
         print("Please enter an integer")
