@@ -1,16 +1,16 @@
 # **Automate The Boring Stuff**
-This project involved reading and solving projects from a book called [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+This project involved reading chapters and solving projects from a book called [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
 
 
 ## Table of Contents
 | Chapters | Description |
 | --- | --- |
-| Chapter - 1 | README.md |
+| Chapter - 1 | Practice Questions |
 | Chapter - 2 | README.md |
 | Chapter - 3 | [Collatz](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2003/collatz.py) |
-| Chapter - 4 | [CommaCode](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2004/commacode.ipynb) , [Character](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2004/character.ipynb) |
-| Chapter - 5 | [Chess](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2005/chess.py) ,[FantasyGameInventor](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2005/FantasyGameInventory.ipynb) |
-| Chapter - 6 | [Table](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2006/table.ipynb) | 
+| Chapter - 4 | [CommaCode](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2004/commacode.ipynb) , [CharacterPictureGrid](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2004/character.ipynb) |
+| Chapter - 5 | [ChessBoardValidator](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2005/chess.py) , [FantasyGameInventor](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2005/FantasyGameInventory.ipynb) |
+| Chapter - 6 | [TablePrinter](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2006/table.ipynb) | 
 | Chapter - 7 | - | 
 | Chapter - 8 | [SandwichMaker](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2008/sandwichMaker.ipynb) |
 | Chapter - 9 | [MadLibs](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2009/madLibs.py) |
@@ -21,7 +21,7 @@ This project involved reading and solving projects from a book called [Automate 
 | Chapter - 14 | [SheetMistakes](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2014/sheetmistakes.py) , [ConvertingSpreadsheets](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2014/ConvertingSpreadsheets.py) |
 | Chapter - 15 | [BruteForcePasswordBreak](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2015/BruteForcePasswordBreaker.py) |
 | Chapter - 16 | - |
-| Chapter - 17 | [prettifiedStopwatch](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2017/prettifiedStopwatch.py) |
+| Chapter - 17 | [PrettifiedStopwatch](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2017/prettifiedStopwatch.py) |
 | Chapter - 18 | - |
 | Chapter - 19 | - |
 | Chapter - 20 | [LookingBusy](https://github.com/anoura12/automate_the_boring_stuff/blob/main/chapter%2020/nudge.py) |
@@ -47,7 +47,7 @@ This chapter talked about lists and various functions for list manipulations.
 
 #### Projects
 CommaCode - This program takes a list value as an argument and returns a string value with the items separated by commas
-Character - This program 
+Character - This program prints an image using a grid containing lists. 
 
 
 ## Chapter 5 - Dictionaries and Structuring Data
